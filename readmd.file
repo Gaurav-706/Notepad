@@ -1,0 +1,22 @@
+Description: This Notepad application allows users to create, open, edit, and save text files. Additionally, it provides a feature to save notes as private, encrypted files within a secure folder. These private notes are protected with a user-defined password, ensuring confidentiality.
+
+Features:
+
+Standard text editing functionalities.
+
+Save notes as encrypted files in a 'private_notes' directory.
+
+Password protection for private notes.
+
+Requirements:
+
+Python 3.>=0
+
+cryptography library
+
+Installation:
+
+Ensure Python 3.x is installed on your system.
+
+Install the required library:
+pip install cryptography
